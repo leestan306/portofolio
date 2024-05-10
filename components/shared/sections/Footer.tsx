@@ -2,11 +2,11 @@ import React from "react";
 
 export default function Footer() {
   return (
-    <div className="p-4">
+    <div className="p-4" id="contacts">
       <div className="p-4 text-right">
         <p className="text-3xl">
           Have a Project? <br />
-          Let's Work Together
+          Let&#39;s Work Together
         </p>
       </div>
       <div className="bg-accent rounded-t-lg p-8 text-black font-extrabold">

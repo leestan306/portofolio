@@ -31,3 +31,8 @@ body {
     text-wrap: balance;
   }
 }
+
+/* set scroll behavior to smooth */
+html {
+  scroll-behavior: smooth;
+}

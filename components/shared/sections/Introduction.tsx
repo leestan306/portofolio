@@ -4,7 +4,7 @@ import TechStack from "./TechStack";
 
 export default function Introduction() {
   return (
-    <div className=" p-4 relative grid md:grid-cols-2 my-20">
+    <div className=" p-4 relative grid md:grid-cols-2 my-20" id="about">
       <div className="relative">
         <div className="absolute">
           <GlowingCenterBox />
@@ -34,11 +34,15 @@ export default function Introduction() {
       <div className=" flex flex-col items-end">
         <div className=" border-2 border-slate-600 rounded-lg p-4 w-[400px] border-opacity-20">
           <div className=" flex">
-            <p className=" text-2xl">
+            <a
+              className=" text-2xl"
+              href="https://github.com/leestan306"
+              target="_blank"
+            >
               <span className=" text-blue-900">github</span>
               <span>/</span>
               <span className=" text-blue-400">leestan306</span>
-            </p>
+            </a>
           </div>
           <p className=" text-slate-700">Passionate software engineer</p>
           <div className="my-4 flex justify-between">

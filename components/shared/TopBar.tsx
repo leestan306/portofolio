@@ -4,18 +4,18 @@ export default function TopBar() {
   return (
     <div className=" flex justify-between items-center py-4 px-2">
       <div>
-        <div className=" bg-accent text-neutral font-bold py-1 px-4 rounded-bl-full rounded-tr-full">
+        <div className=" bg-accent text-neutral font-bold py-1 px-4 rounded-bl-full rounded-tr-full cursor-pointer">
           Leestan
         </div>
       </div>
       <div className=" flex items-center justify-between w-fit gap-4">
-        <a href="" className="hover:underline hover:text-accent">
+        <a href="#about" className="hover:underline hover:text-accent">
           About
         </a>
-        <a className="hover:underline hover:text-accent" href="">
+        <a className="hover:underline hover:text-accent" href="#projects">
           Projects
         </a>
-        <a className="btn btn-accent rounded-full btn-sm" href="">
+        <a className="btn btn-accent rounded-full btn-sm" href="#contacts">
           Contact
         </a>
       </div>

@@ -14,7 +14,7 @@ import { SiTailwindcss } from "react-icons/si";
 import { SiTrpc } from "react-icons/si";
 export default function Portofolio() {
   return (
-    <div className=" p-4 my-20">
+    <div className=" p-4 my-20" id="projects">
       <h2 className=" font-bold text-3xl text-slate-500 text-center mb-10">
         Previous Work & Freelance
       </h2>
