@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <div className="relative w-full">
-        <div className="absolute ">
+        <div className="absolute w-full">
           <GlowingCenterBox />
         </div>
         <div className="w-full grid md:grid-cols-2">
