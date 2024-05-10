@@ -12,7 +12,7 @@ export default function Introduction() {
         <div className=" grid gap-2">
           <small className=" text-slate-500">Introduction</small>
           <h3 className=" text-3xl font-bold">
-            Hello , I'm Stanley Kariuki <br />
+            Hello , I&apos;m Stanley Kariuki <br />
             Web developer <br />
             based In Nairobi
           </h3>
