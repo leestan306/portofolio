@@ -18,7 +18,7 @@ export default function Introduction() {
           </h3>
 
           <p className="text-slate-500 mt-4">
-            "As I advance through my journey as a Computer Science student, I am
+            As I advance through my journey as a Computer Science student, I am
             deeply engaged in crafting immersive web experiences that seamlessly
             blend functionality with aesthetics. My expertise extends across a
             spectrum of Frontend technologies including React, Next.js, and
@@ -27,8 +27,7 @@ export default function Introduction() {
             Backend realms where I occasionally leverage the power of Node.js
             and Laravel to architect robust and scalable systems. With each
             project and learning endeavor, I continue to refine my skills,
-            ensuring that I stay at the forefront of web development
-            innovation."
+            ensuring that I stay at the forefront of web development innovation.
           </p>
         </div>
       </div>
