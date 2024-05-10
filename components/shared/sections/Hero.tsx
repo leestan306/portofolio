@@ -11,10 +11,10 @@ export default function Hero() {
         </div>
         <div className="w-full grid md:grid-cols-2">
           <div>
-            <h1 className=" text-[81.7px] font-bold">
-              Designing
-              <br /> <span className="text-accent">&</span> Deploying <br />{" "}
-              Things
+            <h1 className=" text-[70.7px] font-bold">
+              Design , Develop
+              <br /> <span className="text-accent">&</span> Deploying <br /> Web
+              Apps
             </h1>
             <div className="flex gap-4 items-center">
               <button className=" btn btn-secondary">Get In Touch</button>

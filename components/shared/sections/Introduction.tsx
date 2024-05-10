@@ -13,15 +13,22 @@ export default function Introduction() {
           <small className=" text-slate-500">Introduction</small>
           <h3 className=" text-3xl font-bold">
             Hello , I'm Stanley Kariuki <br />
-            Programmer <br />
+            Web developer <br />
             based In Nairobi
           </h3>
 
           <p className="text-slate-500 mt-4">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident
-            rerum perspiciatis rem sint veniam? Mollitia animi ab voluptatum
-            neque possimus incidunt similique, quidem corporis numquam est
-            quibusdam dolor fugiat. Est.
+            "As I advance through my journey as a Computer Science student, I am
+            deeply engaged in crafting immersive web experiences that seamlessly
+            blend functionality with aesthetics. My expertise extends across a
+            spectrum of Frontend technologies including React, Next.js, and
+            Wordpress Elementor, enabling me to design intuitive user interfaces
+            that captivate and delight. Moreover, my versatility extends to
+            Backend realms where I occasionally leverage the power of Node.js
+            and Laravel to architect robust and scalable systems. With each
+            project and learning endeavor, I continue to refine my skills,
+            ensuring that I stay at the forefront of web development
+            innovation."
           </p>
         </div>
       </div>
