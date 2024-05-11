@@ -9,7 +9,7 @@ import { RiNodejsLine } from "react-icons/ri";
 import { FaLaravel } from "react-icons/fa";
 export default function TechStack() {
   return (
-    <div className=" bg-[#0F2F76] border-2 border-[#0F2F76] bg-opacity-20 p-8 rounded-lg w-[400px]">
+    <div className=" bg-[#0F2F76] border-2 border-[#0F2F76] bg-opacity-20 p-8 rounded-lg wif-fit md:w-[400px]">
       <h2 className=" font-bold text-3xl text-slate-500">Tech Stack</h2>
 
       <div>

@@ -11,12 +11,12 @@ export default function Footer() {
       </div>
       <div className="bg-accent rounded-t-lg p-8 text-black font-extrabold">
         <a
-          className=" text-4xl underline"
+          className="text-2xl md:text-4xl underline"
           href="mailto:leestankariuki@gmail.com"
         >
           leestankariuki@gmail.com
         </a>
-        <div className="flex gap-4 my-4">
+        <div className="grid md:flex gap-4 my-4">
           <a className="hover:underline" href="tel:+254785017308">
             +254785017308
           </a>

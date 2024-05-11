@@ -31,7 +31,7 @@ export default function Introduction() {
           </p>
         </div>
       </div>
-      <div className=" flex flex-col items-end">
+      <div className=" flex flex-col items-end relative">
         <div className=" border-2 border-slate-600 rounded-lg p-4 w-[400px] border-opacity-20">
           <div className=" flex">
             <a
@@ -55,7 +55,7 @@ export default function Introduction() {
           </div>
           <div className="h-40"></div>
         </div>
-        <div className=" right-20 absolute top-40">
+        <div className=" md:right-20 absolute top-40">
           <TechStack />
         </div>
       </div>

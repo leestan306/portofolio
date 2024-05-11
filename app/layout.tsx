@@ -19,7 +19,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="bg-[#10101E]">
-        <div className="max-w-7xl mx-auto min-h-[100dvh] bg-no-repeat">
+        <div className="lg:max-w-6xl md:max-w-5xl mx-auto min-h-[100dvh] bg-no-repeat">
           <TopBar />
           <div className={spaceGroteski.className}>{children}</div>
         </div>
