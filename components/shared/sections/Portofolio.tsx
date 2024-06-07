@@ -114,7 +114,7 @@ export default function Portofolio() {
           <div className=" px-4 flex justify-between items-center">
             <div>Full Stack</div>
             <a
-              href="http://admin.sokofresh.stanleykarariuki.online"
+              href="http://admin.sokofresh.stanleykariuki.online"
               target="_blank"
               className="hover:underline text-accent"
             >
