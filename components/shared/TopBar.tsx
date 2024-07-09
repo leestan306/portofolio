@@ -15,7 +15,7 @@ export default function TopBar() {
         <a className="hover:underline hover:text-accent" href="#projects">
           Projects
         </a>
-        <a className="hover:underline hover:text-accent" href="#projects">
+        <a className="hover:underline hover:text-accent" href="#contacts">
           Contacts
         </a>
         <a
