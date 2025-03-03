@@ -87,7 +87,7 @@ const PrivacyPolicyPage = () => {
           <h2 className="text-2xl font-semibold mb-2">6. Changes to This Privacy Policy</h2>
           <p>
             We reserve the right to update this Privacy Policy at any time. Any
-            changes will be posted on this page with an updated "Last Updated"
+            changes will be posted on this page with an updated -Last Updated-
             date. Your continued use of the app after such changes constitutes
             your acceptance of the revised policy.
           </p>
