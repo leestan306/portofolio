@@ -77,7 +77,7 @@ const PrivacyPolicyPage = () => {
               href="mailto:your-email@example.com"
               className="text-blue-500 hover:underline"
             >
-              {{"stanleykariuki805@gmail.com"}}
+              {"stanleykariuki805@gmail.com"}
             </a>
             .
           </p>
